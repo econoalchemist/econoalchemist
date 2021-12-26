@@ -18,6 +18,6 @@ The only companies I am associated with are [Bitcoin Magazine](https://bitcoinma
 
 <kbd>Instagram</kbd> https://www.instagram.com/econoalchemist/
 
-<kbd>PGP</kbd> `FE6D C14B 57AA 5B3C ED16 D4BA 3957 44B4 148A 0D71`
+<kbd>PGP fingerprint</kbd> `FE6D C14B 57AA 5B3C ED16 D4BA 3957 44B4 148A 0D71`
 
 <kbd>Public Key:</kbd> [click here](Assets/PGP.txt) 
