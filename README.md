@@ -1,8 +1,10 @@
 <img src="Assets/banner.jpg">
 
-The only companies I am associated with are [Bitcoin Magazine](https://bitcoinmagazine.com/), [Upstream Data](https://www.upstreamdata.ca/), and [Braiins](https://braiins.com/blog). Don't get scammed. If you have your doubts, I will always sign a unique message with my PGP key upon request. If you are communicating with me from any account not listed below, you are dealing with a scammer.
+The only company I am associated with is [Bitcoin Magazine](https://bitcoinmagazine.com/). Don't get scammed. If you have your doubts, I will always sign a unique message with my PGP key upon request. If you are communicating with me from any account not listed below, you are dealing with a scammer.
 
 <kbd>Website</kbd> https://www.econoalchemist.com/
+
+<kbd>Nostr</kbd> `npub10m6lrv2kaf08a8um0plhj5dj6yqlw7qxzeag6393z352zrs0e5nsr2tff3`
 
 <kbd>Twitter</kbd> https://twitter.com/econoalchemist
 
