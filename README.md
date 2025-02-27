@@ -1,6 +1,6 @@
 <img src="Assets/banner.jpg">
 
-The only company I am associated with is [Bitcoin Magazine](https://bitcoinmagazine.com/). Don't get scammed. If you have your doubts, I will always sign a unique message with my PGP key upon request. If you are communicating with me from any account not listed below, you are dealing with a scammer.
+The only company I am associated with is [The 256 Foundation](https://256foundation.org). Don't get scammed. If you have your doubts, I will always sign a unique message with my PGP key upon request. If you are communicating with me from any account not listed below, you are dealing with a scammer.
 
 <kbd>Website</kbd> https://www.econoalchemist.com/
 
