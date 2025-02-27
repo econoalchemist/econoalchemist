@@ -10,16 +10,6 @@ The only company I am associated with is [Bitcoin Magazine](https://bitcoinmagaz
 
 <kbd>Telegram</kbd> https://t.me/econoalchemist
 
-<kbd>Threema</kbd> https://threema.id/AD77XT6V
-
-<kbd>Matrix</kbd> https://matrix.to/#/@econoalchemist:halogen.city
-
-<kbd>KeyBase</kbd> https://keybase.io/econoalchemist
-
-<kbd>Mastodon</kbd> https://bitcoinhackers.org/@econoalchemist
-
-<kbd>Instagram</kbd> https://www.instagram.com/econoalchemist/
-
 <kbd>PGP fingerprint</kbd> `FE6D C14B 57AA 5B3C ED16 D4BA 3957 44B4 148A 0D71`
 
 <kbd>Public Key:</kbd> [click here](Assets/PGP.txt) 
